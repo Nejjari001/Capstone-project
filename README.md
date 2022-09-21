@@ -53,7 +53,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).
+- Images from [Freepik](https://www.freepik.com).
+- Icons from [Iconscout](https://iconscout.com). 
+
 
 ## 📝 License
 
