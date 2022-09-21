@@ -21,7 +21,7 @@ It consists of two pages (home and about pages) :
 - Technologies used - Visual Studio Code, Git and Github.
 
 ## Live Demo (if available)
-
+https://nejjari001.github.io/Capstone-project/
 
 ## Getting Started
 
