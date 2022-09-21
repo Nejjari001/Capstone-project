@@ -47,6 +47,7 @@ header {
 }
 
 .header-about {
+  z-index: 11111;
   background: url(../img/background.png) no-repeat;
   height: auto;
   overflow: auto;
@@ -609,6 +610,7 @@ footer {
 }
 
 .menu-list-mobile {
+  z-index: 11111;
   position: fixed;
   display: none;
   background: var(--color2);
