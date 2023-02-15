@@ -1,15 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Capstone Project
+# Arab Affiliate Summit MOROCCO
 
 Responsive site from Mobile to desktop.
 
-This project will be a replica of CC-Global-Summit-2015 website from https://www.behance.net/ gallery. It's a capstone project of the skills and knowledge I have obtained during my first module at Microverse.
+> This project will be a replica of CC-Global-Summit-2015 website from https://www.behance.net/ gallery. It's a capstone project of the skills and knowledge I have obtained during my first module at Microverse.
 
 It consists of two pages (home and about pages) :
 - Combile Grid and Flexbox to build the home and about pages area.
 - Used media queries to make the site responsive.
 - Used animations a transitions to make the site more friendly to the user.
+
+![screenshot](./img/screenshots.png)
 
 
 ## Built With
